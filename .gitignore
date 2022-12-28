@@ -13,3 +13,11 @@
 
 # parcel
 .parcel-cache
+
+# .vscode
+.vscode
+.vscode/*
+
+# dist
+dist
+dist/*
